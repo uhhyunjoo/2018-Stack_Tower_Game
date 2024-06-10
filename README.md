@@ -6,7 +6,7 @@
 *  17011797 김하늬 (kimhanui)
 *  18010864 유명건 (myeonggeon99)
 *  17011500 이동엽 (MoveSide)
-*  18011603 이현주 (alro923)
+*  18011603 이현주 (uhhyunjoo)
 
 ## 개발
 * Unity (C#)  
